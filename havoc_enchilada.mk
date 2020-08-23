@@ -42,4 +42,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
 
-export export HAVOC_BUILD_TYPE=Official
+#export export HAVOC_BUILD_TYPE=Official
